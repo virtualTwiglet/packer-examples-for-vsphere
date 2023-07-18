@@ -24,7 +24,7 @@ variable "vsphere_password" {
 variable "vsphere_insecure" {
   type        = bool
   description = "Set to true for self-signed certificates."
-  default     = true
+  default     = false
 }
 
 # Roles
