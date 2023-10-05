@@ -11,7 +11,7 @@ common_remove_cdrom         = true
 
 // Template and Content Library Settings
 common_template_conversion         = false
-common_content_library_name        = "sfo-w01-lib01"
+common_content_library_name        = "vt-dc-lib01"
 common_content_library_ovf         = true
 common_content_library_destroy     = true
 common_content_library_skip_export = false
@@ -21,7 +21,7 @@ common_ovf_export_enabled   = false
 common_ovf_export_overwrite = true
 
 // Removable Media Settings
-common_iso_datastore = "sfo-w01-cl01-ds-nfs01"
+common_iso_datastore = "vsanDatastore"
 
 // Boot and Provisioning Settings
 common_data_source      = "http"

@@ -5,5 +5,5 @@
 */
 
 // Red Hat Subscription Manager Credentials
-rhsm_username = "rainpole"
-rhsm_password = "R@in!$aG00dThing."
+rhsm_username = "admin"
+rhsm_password = "SMEVMware1!"
